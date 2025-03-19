@@ -1,0 +1,200 @@
+﻿  freebase.cpp
+C:\Users\Administrator\source\repos\freebase\freebase\game\sdk.hpp(55,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'freebase.cpp')
+  
+C:\Users\Administrator\source\repos\freebase\freebase\game\sdk.hpp(55,53): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'freebase.cpp')
+  
+C:\Users\Administrator\source\repos\freebase\freebase\game\sdk.hpp(55,74): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'freebase.cpp')
+  
+C:\Users\Administrator\source\repos\freebase\freebase\game\sdk.hpp(101,22): warning C4244: '=': conversion from 'const double' to 'float', possible loss of data
+  (compiling source file 'freebase.cpp')
+  
+C:\Users\Administrator\source\repos\freebase\freebase\game\sdk.hpp(102,22): warning C4244: '=': conversion from 'const double' to 'float', possible loss of data
+  (compiling source file 'freebase.cpp')
+  
+C:\Users\Administrator\source\repos\freebase\freebase\game\sdk.hpp(103,22): warning C4244: '=': conversion from 'const double' to 'float', possible loss of data
+  (compiling source file 'freebase.cpp')
+  
+C:\Users\Administrator\source\repos\freebase\freebase\game\sdk.hpp(105,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'freebase.cpp')
+  
+C:\Users\Administrator\source\repos\freebase\freebase\game\sdk.hpp(106,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'freebase.cpp')
+  
+C:\Users\Administrator\source\repos\freebase\freebase\game\sdk.hpp(107,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'freebase.cpp')
+  
+C:\Users\Administrator\source\repos\freebase\freebase\game\sdk.hpp(108,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'freebase.cpp')
+  
+C:\Users\Administrator\source\repos\freebase\freebase\game\sdk.hpp(109,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'freebase.cpp')
+  
+C:\Users\Administrator\source\repos\freebase\freebase\game\sdk.hpp(110,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'freebase.cpp')
+  
+C:\Users\Administrator\source\repos\freebase\freebase\game\sdk.hpp(112,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'freebase.cpp')
+  
+C:\Users\Administrator\source\repos\freebase\freebase\game\sdk.hpp(113,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'freebase.cpp')
+  
+C:\Users\Administrator\source\repos\freebase\freebase\game\sdk.hpp(114,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'freebase.cpp')
+  
+C:\Users\Administrator\source\repos\freebase\freebase\game\sdk.hpp(116,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'freebase.cpp')
+  
+C:\Users\Administrator\source\repos\freebase\freebase\game\sdk.hpp(117,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'freebase.cpp')
+  
+C:\Users\Administrator\source\repos\freebase\freebase\game\sdk.hpp(118,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'freebase.cpp')
+  
+C:\Users\Administrator\source\repos\freebase\freebase\game\sdk.hpp(119,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'freebase.cpp')
+  
+C:\Users\Administrator\source\repos\freebase\freebase\game\sdk.hpp(121,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'freebase.cpp')
+  
+C:\Users\Administrator\source\repos\freebase\freebase\game\sdk.hpp(122,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'freebase.cpp')
+  
+C:\Users\Administrator\source\repos\freebase\freebase\game\sdk.hpp(123,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'freebase.cpp')
+  
+C:\Users\Administrator\source\repos\freebase\freebase\game\sdk.hpp(124,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'freebase.cpp')
+  
+C:\Users\Administrator\source\repos\freebase\freebase\game\sdk.hpp(126,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'freebase.cpp')
+  
+C:\Users\Administrator\source\repos\freebase\freebase\game\sdk.hpp(127,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'freebase.cpp')
+  
+C:\Users\Administrator\source\repos\freebase\freebase\game\sdk.hpp(128,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'freebase.cpp')
+  
+C:\Users\Administrator\source\repos\freebase\freebase\game\sdk.hpp(129,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'freebase.cpp')
+  
+C:\Users\Administrator\source\repos\freebase\freebase\game\sdk.hpp(158,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'freebase.cpp')
+  
+C:\Users\Administrator\source\repos\freebase\freebase\game\sdk.hpp(159,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'freebase.cpp')
+  
+C:\Users\Administrator\source\repos\freebase\freebase\game\sdk.hpp(160,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'freebase.cpp')
+  
+C:\Users\Administrator\source\repos\freebase\freebase\game\sdk.hpp(180,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'freebase.cpp')
+  
+C:\Users\Administrator\source\repos\freebase\freebase\game\sdk.hpp(181,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'freebase.cpp')
+  
+C:\Users\Administrator\source\repos\freebase\freebase\game\sdk.hpp(182,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'freebase.cpp')
+  
+C:\Users\Administrator\source\repos\freebase\freebase\game\sdk.hpp(282,38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'freebase.cpp')
+  
+C:\Users\Administrator\source\repos\freebase\freebase\game\sdk.hpp(317,30): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Administrator\source\repos\freebase\freebase\game\sdk.hpp(317,30): warning C4244:         with
+C:\Users\Administrator\source\repos\freebase\freebase\game\sdk.hpp(317,30): warning C4244:         [
+C:\Users\Administrator\source\repos\freebase\freebase\game\sdk.hpp(317,30): warning C4244:             T=double
+C:\Users\Administrator\source\repos\freebase\freebase\game\sdk.hpp(317,30): warning C4244:         ]
+  (compiling source file 'freebase.cpp')
+  
+C:\Users\Administrator\source\repos\freebase\freebase\game\sdk.hpp(580,10): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'freebase.cpp')
+  
+C:\Users\Administrator\source\repos\freebase\freebase\freebase.cpp(124,87): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\source\repos\freebase\freebase\freebase.cpp(124,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\source\repos\freebase\freebase\freebase.cpp(124,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\source\repos\freebase\freebase\freebase.cpp(124,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\source\repos\freebase\freebase\freebase.cpp(124,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\source\repos\freebase\freebase\freebase.cpp(125,87): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\source\repos\freebase\freebase\freebase.cpp(125,76): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\source\repos\freebase\freebase\freebase.cpp(125,65): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\source\repos\freebase\freebase\freebase.cpp(125,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\source\repos\freebase\freebase\freebase.cpp(125,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\source\repos\freebase\freebase\freebase.cpp(126,95): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\source\repos\freebase\freebase\freebase.cpp(126,84): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\source\repos\freebase\freebase\freebase.cpp(126,79): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\source\repos\freebase\freebase\freebase.cpp(126,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\source\repos\freebase\freebase\freebase.cpp(126,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\source\repos\freebase\freebase\freebase.cpp(127,95): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\source\repos\freebase\freebase\freebase.cpp(127,76): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\source\repos\freebase\freebase\freebase.cpp(127,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\source\repos\freebase\freebase\freebase.cpp(127,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\source\repos\freebase\freebase\freebase.cpp(127,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\source\repos\freebase\freebase\freebase.cpp(128,95): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\source\repos\freebase\freebase\freebase.cpp(128,82): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\source\repos\freebase\freebase\freebase.cpp(128,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\source\repos\freebase\freebase\freebase.cpp(128,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\source\repos\freebase\freebase\freebase.cpp(128,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\source\repos\freebase\freebase\freebase.cpp(129,95): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\source\repos\freebase\freebase\freebase.cpp(129,82): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\source\repos\freebase\freebase\freebase.cpp(129,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\source\repos\freebase\freebase\freebase.cpp(129,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\source\repos\freebase\freebase\freebase.cpp(129,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\source\repos\freebase\freebase\freebase.cpp(130,103): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\source\repos\freebase\freebase\freebase.cpp(130,90): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\source\repos\freebase\freebase\freebase.cpp(130,83): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\source\repos\freebase\freebase\freebase.cpp(130,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\source\repos\freebase\freebase\freebase.cpp(130,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\source\repos\freebase\freebase\freebase.cpp(131,103): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\source\repos\freebase\freebase\freebase.cpp(131,90): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\source\repos\freebase\freebase\freebase.cpp(131,83): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\source\repos\freebase\freebase\freebase.cpp(131,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\source\repos\freebase\freebase\freebase.cpp(131,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\source\repos\freebase\freebase\freebase.cpp(184,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Administrator\source\repos\freebase\freebase\freebase.cpp(186,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Administrator\source\repos\freebase\freebase\freebase.cpp(192,72): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Administrator\source\repos\freebase\freebase\freebase.cpp(192,61): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Administrator\source\repos\freebase\freebase\freebase.cpp(192,57): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Administrator\source\repos\freebase\freebase\freebase.cpp(192,32): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Administrator\source\repos\freebase\freebase\freebase.cpp(239,23): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+C:\Users\Administrator\source\repos\freebase\freebase\freebase.cpp(240,23): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\xutility(4829,18): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+  (compiling source file 'freebase.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\xutility(4829,18):
+      the template instantiation context (the oldest one first) is
+          C:\Users\Administrator\source\repos\freebase\freebase\game\sdk.hpp(493,26):
+          see reference to function template instantiation 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)' being compiled
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+              C:\Users\Administrator\source\repos\freebase\freebase\game\sdk.hpp(493,26):
+              see the first reference to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string' in 'get_player_platform'
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\xstring(788,17):
+          see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct_from_iter<wchar_t*,wchar_t*,_Size_type>(_Iter,const _Sent,_Size)' being compiled
+          with
+          [
+              _Size_type=unsigned __int64,
+              _Iter=wchar_t *,
+              _Sent=wchar_t *,
+              _Size=unsigned __int64
+          ]
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\xstring(944,18):
+          see reference to function template instantiation '_OutIt *std::_Copy_n_unchecked4<wchar_t*,_Size,char*>(_InIt,_SizeTy,_OutIt)' being compiled
+          with
+          [
+              _OutIt=char *,
+              _Size=unsigned __int64,
+              _InIt=wchar_t *,
+              _SizeTy=unsigned __int64
+          ]
+  
+  Generating code
+  3 of 1689 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    31 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  freebase.vcxproj -> C:\Users\Administrator\source\repos\freebase\freebase\x64\Release\freebase.exe
