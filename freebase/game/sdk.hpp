@@ -4,7 +4,7 @@
 #include <string>
 #include <d3d9.h>
 #include <vector>
-#include "driver.hpp"
+#include "comm/driver.hpp"
 #include "settings.hpp"
 #include "offsets.hpp"
 

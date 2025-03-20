@@ -5,8 +5,7 @@
 #include "imgui/imgui_impl_dx9.h"
 #include "imgui/imgui_impl_win32.h"
 #include "game/sdk.hpp"
-#include "driver.hpp"
-
+#include "comm/driver.hpp"
 #include <d3d9.h>
 #include "Uxtheme.h"
 #include "dwmapi.h"
@@ -37,7 +36,6 @@ HWND get_process_wnd(uint32_t pid)
 	if (!bresult && GetLastError() == -1 && params.first) return params.first;
 	return 0;
 }
-
 
 HRESULT directx_init()
 {
@@ -82,7 +80,6 @@ HRESULT directx_init()
 
 	return S_OK;
 }
-
 
 auto create_overlay() -> bool
 {
@@ -196,13 +193,19 @@ void game_loop()
 
 void menu()
 {
+	if (GetAsyncKeyState(VK_RSHIFT) & 1)
+		options::show_menu = !options::show_menu;
 
-	ImGui::SetNextWindowSize(ImVec2(300, 400));
-	ImGui::Begin("Free github base", nullptr, ImGuiWindowFlags_NoCollapse | ImGuiWindowFlags_NoResize);
+	if (options::show_menu)
+	{
+		ImGui::SetNextWindowSize(ImVec2(300, 400));
+		ImGui::Begin("Free base", nullptr, ImGuiWindowFlags_NoCollapse | ImGuiWindowFlags_NoResize);
 
-	ImGui::Checkbox("Corner Box", &options::visuals::cornerbox);
-	ImGui::End();
+		ImGui::Checkbox("Corner Box", &options::visuals::cornerbox);
+		ImGui::End();
+	}
 }
+
 WPARAM render_loop()
 {
 	static RECT old_rc;

@@ -11,6 +11,9 @@
     <Filter Include="game">
       <UniqueIdentifier>{c1e7640b-8b27-4462-b66f-662d6cd03a8f}</UniqueIdentifier>
     </Filter>
+    <Filter Include="comm">
+      <UniqueIdentifier>{e0bcbe3d-0ae3-4480-858b-85d64f42451e}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="freebase.cpp">
@@ -72,8 +75,8 @@
     <ClInclude Include="game\offsets.hpp">
       <Filter>game</Filter>
     </ClInclude>
-    <ClInclude Include="driver.hpp">
-      <Filter>game</Filter>
+    <ClInclude Include="comm\driver.hpp">
+      <Filter>comm</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
